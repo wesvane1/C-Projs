@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/Auth/bin/Debug/net7.0/Auth
+/Users/foxygrandpa/Desktop/C#Projs/Auth/bin/Debug/net7.0/Auth.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/Auth/bin/Debug/net7.0/Auth.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/Auth/bin/Debug/net7.0/Auth.dll
+/Users/foxygrandpa/Desktop/C#Projs/Auth/bin/Debug/net7.0/Auth.pdb
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/Auth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/Auth.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/Auth.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/Auth.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/Auth.dll
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/refint/Auth.dll
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/Auth.pdb
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/Auth.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/Auth/obj/Debug/net7.0/ref/Auth.dll

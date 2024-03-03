@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/simple01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/simple01.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/simple01.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/simple01.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/simple01/bin/Debug/net7.0/simple01
+/Users/foxygrandpa/Desktop/C#Projs/simple01/bin/Debug/net7.0/simple01.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/simple01/bin/Debug/net7.0/simple01.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/simple01/bin/Debug/net7.0/simple01.dll
+/Users/foxygrandpa/Desktop/C#Projs/simple01/bin/Debug/net7.0/simple01.pdb
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/simple01.dll
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/refint/simple01.dll
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/simple01.pdb
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/simple01.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/simple01/obj/Debug/net7.0/ref/simple01.dll

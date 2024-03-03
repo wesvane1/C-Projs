@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/bin/Debug/net7.0/AdvSearch
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/bin/Debug/net7.0/AdvSearch.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/bin/Debug/net7.0/AdvSearch.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/bin/Debug/net7.0/AdvSearch.dll
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/bin/Debug/net7.0/AdvSearch.pdb
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/AdvSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/AdvSearch.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/AdvSearch.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/AdvSearch.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/AdvSearch.dll
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/refint/AdvSearch.dll
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/AdvSearch.pdb
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/AdvSearch.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/AdvSearch/obj/Debug/net7.0/ref/AdvSearch.dll
