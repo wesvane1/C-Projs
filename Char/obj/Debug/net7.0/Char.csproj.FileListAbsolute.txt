@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/Char.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/Char.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/Char.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/Char.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/Char/bin/Debug/net7.0/Char
+/Users/foxygrandpa/Desktop/C#Projs/Char/bin/Debug/net7.0/Char.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/Char/bin/Debug/net7.0/Char.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/Char/bin/Debug/net7.0/Char.dll
+/Users/foxygrandpa/Desktop/C#Projs/Char/bin/Debug/net7.0/Char.pdb
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/Char.dll
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/refint/Char.dll
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/Char.pdb
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/Char.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/Char/obj/Debug/net7.0/ref/Char.dll
