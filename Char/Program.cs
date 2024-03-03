@@ -10,12 +10,6 @@ class Program
 
     Console.WriteLine(result);
 
-    // string word = Console.Write("What is your favorite word?")
-
-    // foreach (var letter in vowels)
-    // {
-    //   Console.WriteLine(letter);
-    // }
   }
 
   static string removeVowels(string sentence)
