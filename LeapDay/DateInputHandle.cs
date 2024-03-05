@@ -6,6 +6,7 @@ namespace DaysBetween
 {
     class DateInputHandler
     {
+        // Public because it is being access by another class, (int, int, int) means that it will be returning a tuple of 3 integers.
         public static (int, int, int) GetValidDateInput(string prompt)
         {
             int year, month, day;
@@ -28,6 +29,7 @@ namespace DaysBetween
             return (year, month, day);
         }
 
+        // This is private because only this class uses the check date method.
         private static void CheckDate(int year, int month, int day)
         {
             string dayErr = "The day you have entered is not valid for the given month";
@@ -65,6 +67,7 @@ namespace DaysBetween
                     leapYears += 1;
                 }
             }
+
             return leapYears;
         }
 
@@ -72,28 +75,18 @@ namespace DaysBetween
         {
             double fullMonths = (12-month)* daysInMonth;
             double remainingDaysInStartMonth = daysInMonth-day;
+            // This means that an int will be returned and not a double, since the two numbers in the return statement are doubles.
             return (int)Math.Floor(fullMonths + remainingDaysInStartMonth);
         }
 
         public static int DaysToEndDay(int month, int day, double daysInMonth)
         {
             double fullMonths = (month-1)*daysInMonth;
+            // This means that an int will be returned and not a double, since the two numbers in the return statement are doubles.
             return (int)Math.Floor(fullMonths + day);
         }
 
-        public static int IsCurrentLeapYear(int year, int month, int day)
-        {
-            int dayCount = 0;
-            if (IsLeapYear(year))
-            {
-                if (month > 2 || (month == 2 && day == 29))
-                {
-                    dayCount += 1;
-                }
-            }
-            return dayCount;
-        }
-
+        // This checks to see how many leap years there are BETWEEN 2 years, ex 1999 and 2004, there is one leap year (since 2004 is not counted yet)
         private static bool IsLeapYear(int year)
         {
             return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);

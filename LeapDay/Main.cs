@@ -25,13 +25,11 @@ namespace DaysBetween
 
             int fullYearDays = (365 * ((eY - sY) - 1) + leapCount);
 
-            int currentLeapYear = DateInputHandler.IsCurrentLeapYear(eY, eM, eD);
-
             int toEOY = DateInputHandler.DaysToEndOfYear(sM, sD, daysInMonth);
 
             int toEndDay = DateInputHandler.DaysToEndDay(eM, eD, daysInMonth);
 
-            int daysBetween = fullYearDays + currentLeapYear + toEOY + toEndDay;
+            int daysBetween = fullYearDays + toEOY + toEndDay;
 
             return daysBetween;
         }
