@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/LeapDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/LeapDay.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/LeapDay.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/LeapDay.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/bin/Debug/net7.0/LeapDay
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/bin/Debug/net7.0/LeapDay.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/bin/Debug/net7.0/LeapDay.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/bin/Debug/net7.0/LeapDay.dll
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/bin/Debug/net7.0/LeapDay.pdb
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/LeapDay.dll
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/refint/LeapDay.dll
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/LeapDay.pdb
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/LeapDay.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/LeapDay/obj/Debug/net7.0/ref/LeapDay.dll
