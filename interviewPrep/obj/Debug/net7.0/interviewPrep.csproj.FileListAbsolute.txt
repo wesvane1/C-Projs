@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/bin/Debug/net7.0/interviewPrep
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/bin/Debug/net7.0/interviewPrep.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/bin/Debug/net7.0/interviewPrep.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/bin/Debug/net7.0/interviewPrep.dll
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/bin/Debug/net7.0/interviewPrep.pdb
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/interviewPrep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/interviewPrep.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/interviewPrep.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/interviewPrep.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/interviewPrep.dll
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/refint/interviewPrep.dll
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/interviewPrep.pdb
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/interviewPrep.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/interviewPrep/obj/Debug/net7.0/ref/interviewPrep.dll
