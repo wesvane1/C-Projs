@@ -12,17 +12,17 @@ namespace DaysBetween
             int year, month, day;
             do
             {
-                Console.WriteLine(prompt + " Year:");
+                Console.Write(prompt + " Year: ");
             } while (!int.TryParse(Console.ReadLine(), out year));
 
             do
             {
-                Console.WriteLine(prompt + " Month:");
+                Console.Write(prompt + " Month: ");
             } while (!int.TryParse(Console.ReadLine(), out month));
 
             do
             {
-                Console.WriteLine(prompt + " Day:");
+                Console.Write(prompt + " Day: ");
             } while (!int.TryParse(Console.ReadLine(), out day));
 
             CheckDate(year, month, day);
