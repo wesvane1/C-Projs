@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/palTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/palTest.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/palTest.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/palTest.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/palTest/bin/Debug/net7.0/palTest
+/Users/foxygrandpa/Desktop/C#Projs/palTest/bin/Debug/net7.0/palTest.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/palTest/bin/Debug/net7.0/palTest.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/palTest/bin/Debug/net7.0/palTest.dll
+/Users/foxygrandpa/Desktop/C#Projs/palTest/bin/Debug/net7.0/palTest.pdb
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/palTest.dll
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/refint/palTest.dll
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/palTest.pdb
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/palTest.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/palTest/obj/Debug/net7.0/ref/palTest.dll

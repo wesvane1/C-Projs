@@ -10,7 +10,7 @@ class Program
       if (IsPrime.CheckPrime(number))
       {
         Console.WriteLine($"{number} is prime!");
-      }      
+      }
     }
   }
 }
