@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/bin/Debug/net7.0/getSetPract
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/bin/Debug/net7.0/getSetPract.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/bin/Debug/net7.0/getSetPract.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/bin/Debug/net7.0/getSetPract.dll
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/bin/Debug/net7.0/getSetPract.pdb
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/getSetPract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/getSetPract.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/getSetPract.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/getSetPract.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/getSetPract.dll
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/refint/getSetPract.dll
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/getSetPract.pdb
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/getSetPract.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/getSetPract/obj/Debug/net7.0/ref/getSetPract.dll

@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/polyPract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/polyPract.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/polyPract.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/polyPract.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/bin/Debug/net7.0/polyPract
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/bin/Debug/net7.0/polyPract.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/bin/Debug/net7.0/polyPract.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/bin/Debug/net7.0/polyPract.dll
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/bin/Debug/net7.0/polyPract.pdb
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/polyPract.dll
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/refint/polyPract.dll
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/polyPract.pdb
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/polyPract.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/polyPract/obj/Debug/net7.0/ref/polyPract.dll

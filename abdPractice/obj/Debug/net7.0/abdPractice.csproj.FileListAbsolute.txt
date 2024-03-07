@@ -1,0 +1,14 @@
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/abdPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/abdPractice.AssemblyInfoInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/abdPractice.AssemblyInfo.cs
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/abdPractice.csproj.CoreCompileInputs.cache
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/bin/Debug/net7.0/abdPractice
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/bin/Debug/net7.0/abdPractice.deps.json
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/bin/Debug/net7.0/abdPractice.runtimeconfig.json
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/bin/Debug/net7.0/abdPractice.dll
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/bin/Debug/net7.0/abdPractice.pdb
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/abdPractice.dll
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/refint/abdPractice.dll
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/abdPractice.pdb
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/abdPractice.genruntimeconfig.cache
+/Users/foxygrandpa/Desktop/C#Projs/abdPractice/obj/Debug/net7.0/ref/abdPractice.dll
